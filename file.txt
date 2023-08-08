@@ -1,0 +1,1 @@
+Haseeb Khan Read Me seek(), tell() & other methods
